@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24586358856",
+    "project_id": "fitness-center-fae6b",
+    "storage_bucket": "fitness-center-fae6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24586358856:android:b91cbe6d6309730596087d",
+        "android_client_info": {
+          "package_name": "com.example.fitnesscenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24586358856-u8fqvfip2uu1r2qr85dkm9hpafv75toi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA53zwmwYU46krzFrrsSpnk-T4LrYIJEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24586358856-u8fqvfip2uu1r2qr85dkm9hpafv75toi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
